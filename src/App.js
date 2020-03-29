@@ -8,7 +8,7 @@ class App extends React.Component {
         <a className="navbar-brand js-scroll-trigger" href="#page-top">
           <span className="d-block d-lg-none">Clarence Taylor</span>
           <span className="d-none d-lg-block">
-            <img className="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt=""/>
+            <img className="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/je.jpeg" alt=""/>
           </span>
         </a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -42,8 +42,8 @@ class App extends React.Component {
 
     <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
       <div className="w-100">
-        <h1 className="mb-0">Clarence
-          <span className="text-primary">Taylor</span>
+        <h1 className="mb-0">Marco
+          <span className="text-primary">Cobian</span>
         </h1>
         <div className="subheading mb-5">3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
           <a href="mailto:name@email.com">name@email.com</a>
