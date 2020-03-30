@@ -45,10 +45,13 @@ class App extends React.Component {
         <h1 className="mb-0">Marco
           <span className="text-primary">Cobian</span>
         </h1>
-        <div className="subheading mb-5">3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
-          <a href="mailto:name@email.com">name@email.com</a>
+        <div className="subheading mb-5">3542 Berry Street · Cheyenne Wells, CO 80810 · (312) 138-5579 ·
+          <a href="mailto:maca9608@gmail.com">maca9608@gmail.com</a>
         </div>
-        <p className="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+        {/*<p className="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>*/}
+        <p className="lead mb-5">soy un desarrollador joven con muchas ganas de porgramar 
+        y vivir de ello y estoy terminando mi carrera
+        </p>        
         <div className="social-icons">
           <a href="#">
             <i className="fab fa-linkedin-in"></i>
