@@ -45,7 +45,7 @@ class App extends React.Component {
         <h1 className="mb-0">Marco
           <span className="text-primary">Cobian</span>
         </h1>
-        <div className="subheading mb-5">3542 Berry Street · Cheyenne Wells, CO 80810 · (312) 138-5579 ·
+        <div className="subheading mb-5">60 xicotecatl · Cuauhtemoc, Colima 28500 · (312) 138-5579 ·
           <a href="mailto:maca9608@gmail.com">maca9608@gmail.com</a>
         </div>
         {/*<p className="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>*/}
